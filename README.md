@@ -2,6 +2,6 @@
 Mi primer commit palabra
 
 Info que tiene que tener un Readme.txt
-+ Qué hace el proyecto
++ Qué hace el proyecto-
 
 
